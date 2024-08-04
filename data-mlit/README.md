@@ -8,6 +8,10 @@ Information on automobile recalls and defects provided by the Ministry of Land, 
 	
 # Original Data URL
 
-[http://carinf.mlit.go.jp/jidosha/carinf/opn/index.html](http://carinf.mlit.go.jp/jidosha/carinf/opn/index.html)
 
+[https://renrakuda.mlit.go.jp/renrakuda/top.html](https://renrakuda.mlit.go.jp/renrakuda/top.html)
+
+## Original Data URL (OLD)
+
+[http://carinf.mlit.go.jp/jidosha/carinf/opn/index.html](http://carinf.mlit.go.jp/jidosha/carinf/opn/index.html)
 
